@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=300&color=5BC0DE&center=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub!.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=400&color=5BC0DE&center=true&random=false&width=1200&height=100&lines=Welcome+to+my+GitHub!;I'm+Sagar+Shah%2C+a+backend+developer+with+a+DevOps+mindset!;Nice+to+meet+you+😊!.)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="100%" src="https://github.com/SagarOps/SagarOps/blob/main/assets/cover.png" alt="cover" />
 </div>
+<br/></br>
 
 <h3 align="center">Hey there! I'm Sagar Shah, a versatile backend developer with a strong background in DevOps. I'm passionate about creating innovative solutions and streamlining development processes. With my skills in automation, infrastructure management, and continuous integration, I'm dedicated to driving excellence in software development. Let's build the future together! 💻🚀</h3>
+
+<br/></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarops&label=Profile%20views&color=0e75b6&style=flat" alt="sagarops" /> </p>
 
