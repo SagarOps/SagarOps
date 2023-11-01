@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=5BC0DE&center=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub!;I'm+Sagar+Shah%2C+a+software+developer+with+a+DevOps+mindset.;Ready+to+explore+the+tech+world+together.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=300&color=5BC0DE&center=true&random=false&width=800&height=100&lines=Welcome+to+my+GitHub!;I'm+Sagar+Shah%2C+a+software+developer+with+a+DevOps+mindset.;Ready+to+explore+the+tech+world+together.)](https://git.io/typing-svg)
 
 <h3 align="center">Hey there! I'm Sagar Shah, a versatile software developer with a strong background in DevOps. I'm passionate about creating innovative solutions and streamlining development processes. With my skills in automation, infrastructure management, and continuous integration, I'm dedicated to driving excellence in software development. Let's build the future together! 💻🚀</h3>
 
