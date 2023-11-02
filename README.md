@@ -9,7 +9,6 @@
 
 <br/></br>
 
-
 ## Skill Set :muscle:
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -18,6 +17,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 
 **Web Development**
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="400">
 
 <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png"/> <img title="HTML" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/> <img title="CSS" alt="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"/> 
 
