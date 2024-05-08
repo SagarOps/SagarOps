@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=400&color=5BC0DE&center=true&random=false&width=1200&height=100&lines=Welcome+to+my+GitHub!;I'm+Sagar+Shah%2C+a+backend+developer+with+a+DevOps+mindset!;Nice+to+meet+you+😊!.)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="100%" src="https://github.com/SagarOps/SagarOps/blob/main/assets/cover.jpg" alt="cover" />
+  <img width="100%" src="https://github.com/SagarOps/SagarOps/blob/main/assets/sagarops.png" alt="cover" />
 </div>
 <br/></br>
 
